@@ -2,7 +2,7 @@ Arch-Installer
 Tutorial
 (Assuming Your on a Brand New Archiso)
 pacman -Sy git - Syncs Package Repos & Installs Git
-git clone https://github.com/avvon/monkey-installer - Clones The Repo
+git clone https://github.com/n0vva/Arch-Linux-Installer - Clones The Repo
 
 sh install.sh - Starts The Installer In Bash
 sh install-2.sh - Start Second Part In Bash
